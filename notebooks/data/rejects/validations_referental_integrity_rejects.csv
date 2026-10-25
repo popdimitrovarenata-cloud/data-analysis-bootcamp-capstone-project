@@ -1,0 +1,1 @@
+validation_id,validation_ts,route_id,vehicle_id,stop_id,card_id,fare_type,fare_amount,passenger_count,transfer_flag,is_reversed,reject_reason

@@ -1,0 +1,10 @@
+file,rows,columns,generated_at
+agg_ridership_by_month.csv,12,5,2026-10-25T19:39:54
+agg_ridership_by_hour.csv,48,5,2026-10-25T19:39:54
+agg_route_performance.csv,720,9,2026-10-25T19:39:54
+agg_mode_summary.csv,36,6,2026-10-25T19:39:54
+agg_fare_type_mix.csv,60,5,2026-10-25T19:39:54
+agg_stop_activity.csv,400,7,2026-10-25T19:39:54
+agg_vehicle_utilisation.csv,180,7,2026-10-25T19:39:54
+agg_peak_analysis.csv,18,5,2026-10-25T19:39:54
+agg_transfer_behaviour.csv,36,4,2026-10-25T19:39:54
